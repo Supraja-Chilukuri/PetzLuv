@@ -1,0 +1,171 @@
+body{
+  font-family: "Montserrat";
+}
+
+#title{
+  background-image: linear-gradient(to right top, #d40851, #d82944, #da3e38, #da512c, #d76221);
+  color: #fff;
+  text-align: center;
+}
+
+.container-fluid{
+  padding: 2.8% 12%;
+}
+
+h1{
+  padding: 5%;
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+}
+
+h2{
+  font-weight: 340;
+  font-size: 2.6rem;
+  line-height: 1.5;
+}
+
+h3{
+  font-family: "Montserrat-Bold";
+  font-weight: bold;
+  font-size: 1.6rem;
+}
+
+p{
+  color: #8f8f8f;
+}
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 2.2% 6%;
+}
+
+.nav-item{
+  padding: 0 16px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+
+.big-heading{
+  padding-left: 12%;
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.container-fluid h5{
+  color: #fff;
+  text-align: center;
+  padding: 0 20%;
+  line-height: 2rem;
+}
+
+.download-button{
+  margin: 5% 3% 10% 0;
+}
+
+.download-button1{
+  margin: 5% 3% 10% 8%;
+}
+
+.title-image{
+  padding-top: 10%;
+  padding-right: 16%;
+  width: 100%;
+
+}
+
+/* Features section */
+#features{
+  padding: 7% 15%;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+  font-size: 1.2rem;
+  font-family: "Montserrat-Black";
+  padding: 4.5%;
+}
+
+.icon{
+  color: #da3e38;
+  padding: 4%;
+}
+
+.icon:hover{
+  color: #d40851;
+}
+
+#testimonials{
+  text-align: center;
+  font-weight: bold;
+  background-image: linear-gradient(to right top, #d82944, #da3e38, #da512c, #d76221);
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.testimonials-image{
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#pricing{
+  padding: 120px;
+  text-align: center;
+}
+
+.pricing-title{
+  color: #da3e38;
+}
+
+.card-header{
+  color: #da3e38;
+}
+
+.pricing-column{
+  padding: 2.5% 4%;
+}
+
+.pricing-image{
+  width: 50%;
+}
+
+.pricing-image2{
+  width: 21.1%;
+}
+
+#cta{
+  background-image: linear-gradient(to right top, #d82944, #da3e38, #da512c, #d76221);
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+
+}
+
+.cta-heading{
+  font-family: "Montserrat-Black";
+  line-height: 1.5;
+  font-size: 3rem;
+}
+
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.socal-icon {
+  margin: 20px 10px;
+}
